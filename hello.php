@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1>Hello</h1>
-<?php echo "My name is php"/>
+<?php echo "My name is php"; ?/>
 </body>	
 </html>
 	
